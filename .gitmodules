@@ -1,0 +1,15 @@
+[submodule "Linux/linux/Linux_Kernel"]
+	path = Linux/linux/Linux_Kernel
+	url = https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git
+[submodule "Linux/linux/GNU_CoreUtils"]
+	path = Linux/linux/GNU_CoreUtils
+	url = https://github.com/coreutils/coreutils.git
+[submodule "Linux/linux/LinuxDarwin"]
+	path = Linux/linux/LinuxDarwin
+	url = https://github.com/apple/darwin-xnu.git
+[submodule "Linux/linux/Linux_Docker"]
+	path = Linux/linux/Linux_Docker
+	url = https://github.com/moby/moby.git
+[submodule "Linux/linux/Linux_Kubernetes"]
+	path = Linux/linux/Linux_Kubernetes
+	url = https://github.com/kubernetes/kubernetes.git
